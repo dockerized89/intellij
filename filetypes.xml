@@ -5,6 +5,7 @@
       <mapping pattern="all" type="PLAIN_TEXT" />
       <mapping pattern="localhost" type="PLAIN_TEXT" />
       <mapping ext="erb" type="PLAIN_TEXT" />
+      <mapping ext="in" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
