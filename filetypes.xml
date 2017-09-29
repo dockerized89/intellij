@@ -7,6 +7,7 @@
       <mapping ext="erb" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
+      <mapping ext="fact" type="Python" />
     </extensionMap>
   </component>
 </application>
